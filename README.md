@@ -1,5 +1,5 @@
 <h4>Welcome to my :octocat: profile. My name is Néstor Torres(@NestorFTP:computer:)</h4>
-- :bulb: I'm currently learning
+- :bulb: I'm currently learning Machine Learning and Data Science .
 - 👋 Hi, I’m Néstor Torres (@NestorFTP)
 - 👀 I’m interested in ... 
 - 🌱 I’m currently learning ...
