@@ -6,7 +6,7 @@
 <h4>I'm</h4>
 
 
-Basically my funtion in this world is to turn coffee :coffee: into code :computer:
+Basically my role in this world :earth_americas: is to turn coffee :coffee: into code :computer:
 
 
 - :bulb: I'm currently learning Machine Learning and Data Science .
