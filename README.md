@@ -1,5 +1,8 @@
 <h3>Welcome to my :octocat: profile. My name is Néstor Torres(@NestorFTP:computer:)</h3>
-<center><img src="https://github.com/NestorFTP/NestorFTP/blob/main/WhatsApp%20Image%202021-03-23%20at%2012.54.39.jpeg" width="250" height="250" /></center>
+<p align="center">
+  <img width="250" height="250" src="https://github.com/NestorFTP/NestorFTP/blob/main/WhatsApp%20Image%202021-03-23%20at%2012.54.39.jpeg">
+</p>
+
 
 
 - :bulb: I'm currently learning Machine Learning and Data Science .
