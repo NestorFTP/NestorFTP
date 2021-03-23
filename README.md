@@ -7,7 +7,7 @@
 <h4>Basically my role in this world :earth_americas: is to turn coffee :coffee: into code :computer:</h4>
 
 
-- :bulb: I'm currently learning Machine Learning and Data Science .
+- :bulb: I'm currently learning Data Science and Machine Learning. 
 - 👋 Hi, I’m Néstor Torres (@NestorFTP)
 - 👀 I’m interested in ... 
 - 🌱 I’m currently learning ...
