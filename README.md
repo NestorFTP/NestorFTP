@@ -6,7 +6,9 @@
 <h4>I'm</h4>
 
 
-- I turn coffee :coffee: into code :computer:
+Basically my funtion in this world is to turn coffee :coffee: into code :computer:
+
+
 - :bulb: I'm currently learning Machine Learning and Data Science .
 - 👋 Hi, I’m Néstor Torres (@NestorFTP)
 - 👀 I’m interested in ... 
