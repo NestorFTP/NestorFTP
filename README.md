@@ -1,5 +1,4 @@
-<h4>Welcome to my :octocat: profile. My name is Néstor Torres</h4></br>
-<h3>(@NestorFTP:computer:)</h3>
+<h4>Welcome to my :octocat: profile. My name is Néstor Torres</h4>(@NestorFTP:computer:)
 
 - 👋 Hi, I’m Néstor Torres (@NestorFTP)
 - 👀 I’m interested in ... 
